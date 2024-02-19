@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aidan Radtke - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #444;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Aidan Radtke</h1>
+        <p>Second Year Student</p>
+    </header>
+
+    <section>
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: aidanradtke@gmail.com</li>
+            <li>Phone: (571) 758-0754</li>
+            <li>LinkedIn: linkedin.com/in/aidanradtke/</li>
+            <li>GitHub: github.com/AidanRadtke1</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>James Madison University</strong> - Bachelor's Degree in Computer Science, Minor in Military Science. (ARMY ROTC)<br>
+            Graduation Year: 2026</p>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+
+        <p><strong>ARMY ROTC</strong> - August 2023 - Present<br>
+            PT 3x a week <br>
+        Leadership Skills</p>
+        <p><strong>Parkour</strong> - Athlete | 2011 - Present<br>
+            </p>
+
+        <p><strong>Mon Ami Gabi</strong> - Busser | May 2023 - August 2023<br>
+            </p>
+
+        <p><strong>YMCA</strong> - Wellness Coach | September 2021 - January 2022<br>
+            </p>
+
+        <p><strong>Tri-County Upperville Horse Show</strong> - Farmhand | June 2021 - June 2021</p>
+
+        <p><strong>Reston Association</strong> - Aquatic Attendant | May 2019 - August 2019</p>
+
+        <h2>Volunteer Experience</h2>
+
+        <p><strong>The Closet</strong> - Thrift Store Team Member | October 2022 - October 2022</p>
+
+        <p><strong>YMCA Food Drive</strong> - | September 2021 - September 2021</p>
+
+
+
+
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, Java, Python, GDscript (Godot),</li>
+            <li>Web and Game Development, Data Engineering, Networking, </li>
+            <li>Leadership Skills, Team-Oriented, Communication Skills</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <p><strong>GameBall</strong> - I built a video game from scratch in 2022. It is like PacMan but in 3D. I learned to use Godot and taught myself their own language, GDscript, to write the code necessary for the game.</p>
+        <p><strong>Personal Website</strong> - Built my own personal website to display previous and future projects. Please visit - aidanradtke2.wixsite.com/aidan-radtke-games to see more.</p>
+    </section>
+
+    <footer>
+        <p>References available upon request</p>
+    </footer>
+
+</body>
+
+</html>
